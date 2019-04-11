@@ -23,6 +23,7 @@
 		Confirm Password:<input type="Password" id="pwd2" disabled><br>
 		<br>
 		<input type="button" id="b3" value="submit details" disabled>
+		<input type="button" id="b3" value="submit details" >
 	</form>
 	<script>
 		function add()
