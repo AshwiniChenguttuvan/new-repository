@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+sample
 <html>
 <head>
 	<title></title>
@@ -24,6 +25,7 @@
 		<br>
 		<input type="button" id="b3" value="submit details" disabled>
 		<input type="button" id="b3" value="submit details" >
+		
 	</form>
 	<script>
 		function add()
